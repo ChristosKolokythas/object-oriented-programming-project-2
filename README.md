@@ -11,7 +11,7 @@ To run the program, open a terminal and navigate to the directory containing the
 ```cpp
 g++ -o main main.cpp classes.cpp
 ```
-This will compile the source code and create an executable file called "main". To run the program, type the following command:
+This will compile the source code and create an executable file called "main". To run the program, type the following command: 
 
 ```cpp
 ./main <N> <NSegs> <K> <Percent>
